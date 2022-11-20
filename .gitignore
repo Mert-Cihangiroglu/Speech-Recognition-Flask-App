@@ -1,0 +1,3 @@
+# .gitignore
+conda
+__pycache__
